@@ -7,7 +7,6 @@ first_name: Xinyi
 middle_name: # leave blank
 last_name: Sun
 contact_note: >
-  Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Xinyi Sun is a PhD Candidate in Quantitative Marketing at HKUST Business School. She studies how AI and digital platforms reshape brand building, consumer behavior, and content strategy.
 footer_text: >
@@ -84,7 +83,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
