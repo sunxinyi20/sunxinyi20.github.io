@@ -11,9 +11,13 @@ nav [data-search],
   display: none !important;
 }
 
-/* Photo align with name - move up */
+/* Photo align with name - move up and control size */
 .profile {
   margin-top: -5.5em !important;
+}
+.profile img {
+  max-width: 220px !important;
+  width: 100% !important;
 }
 
 /* Paper numbering - compact spacing */
