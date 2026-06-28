@@ -20,6 +20,18 @@ nav [data-search],
   width: 100% !important;
 }
 
+/* Mobile: prevent photo and text overlap */
+@media (max-width: 768px) {
+  .profile {
+    float: none !important;
+    margin: 0 auto 1em auto !important;
+    text-align: center !important;
+  }
+  .profile img {
+    max-width: 160px !important;
+  }
+}
+
 /* Paper numbering - compact spacing */
 .publications ol.bibliography,
 .publications .bibliography {
