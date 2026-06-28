@@ -35,3 +35,4 @@ My work spans three interconnected themes: (1) **Digital brand building and cont
 Methodologically, I draw on **structural demand modeling**, **causal inference** (RDiT, field experiments), **large language models** (multi-agent architectures, prompt engineering), and **computer vision** (Stable Diffusion, CLIP, LoRA).
 
 I am on the 2026–2027 academic job market.
+
