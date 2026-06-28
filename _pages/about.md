@@ -28,7 +28,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD Candidate in Quantitative Marketing at the **Hong Kong University of Science and Technology (HKUST)**, advised by Professor Jia Liu. My research examines **how AI and digital platforms reshape brand building, consumer behavior, and content strategy** — developing AI-native measurement tools and empirical frameworks to answer questions that traditional methods cannot.
+I am a PhD Candidate in Quantitative Marketing at the **Hong Kong University of Science and Technology (HKUST)**, advised by **Professor Jia Liu**. My research examines **how AI and digital platforms reshape brand building, consumer behavior, and content strategy** — developing AI-native measurement tools and empirical frameworks to answer questions that traditional methods cannot.
 
 My work spans three interconnected perspectives: **1) on the brand side**, I study how durable brand equity is built through content and engagement in digital markets; **2) on the consumer side**, I investigate how AI-powered tools such as LLM chatbots reshape consumer search and decision-making; and **3) on the researcher side**, I develop AI-native methods — including multi-agent LLM architectures and diffusion models — to advance how marketing scholars measure, generate, and test marketing phenomena.
 
