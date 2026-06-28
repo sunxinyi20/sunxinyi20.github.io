@@ -1,19 +1,22 @@
 /* Hide search in navbar */
 
-[aria-label="Search"],
-button[aria-label="search"] {
+nav [data-search],
+[class*="search"] {
   display: none !important;
 }
 
-/* Hide RSS icon in socials */
+/* Hide RSS icon */
 
-/* Photo align top */
-header .profile {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
+.social a[href*="feed"] {
+  display: none !important;
 }
 
-/* Paper numbering */
+/* Photo align with name - move up */
+.profile {
+  margin-top: -2.5em !important;
+}
+
+/* Paper numbering - compact spacing */
 .publications ol.bibliography,
 .publications .bibliography {
   counter-reset: pub-counter;
@@ -25,32 +28,11 @@ header .profile {
 .publications .bibliography > li {
   counter-increment: pub-counter;
   position: relative;
-  padding-left: 2.8em !important;
+  padding-left: 2em !important;
 }
 
 .publications ol.bibliography > li::before,
 .publications .bibliography > li::before {
-  content: "[" counter(pub-counter) "] ";
-  position: absolute;
-  left: 0;
-  font-weight: 600;
-}
-
-/* About page compact paper list */
-article.about .publications ol.bibliography > li,
-article.about .publications .bibliography > li {
-  padding-left: 2.8em !important;
-}
-
-article.about .publications ol.bibliography,
-article.about .publications .bibliography {
-  counter-reset: pub-counter;
-  list-style: none !important;
-  padding-left: 0 !important;
-}
-
-article.about .publications ol.bibliography > li::before,
-article.about .publications .bibliography > li::before {
   content: "[" counter(pub-counter) "] ";
   position: absolute;
   left: 0;
