@@ -36,3 +36,31 @@ Methodologically, I draw on **causal inference** (RDiT, field experiments, lab e
 
 I am on the 2026–2027 academic job market.
 
+<h2>Education</h2>
+
+<div style="margin: 1rem 0 1.5rem; display: flex; flex-direction: column; gap: 0.875rem;">
+  <div style="display: flex; align-items: flex-start; gap: 0.75rem; padding-left: 0.875rem; border-left: 2px solid rgba(128,128,128,0.3);">
+    <i class="fa-solid fa-graduation-cap" style="font-size: 1.1rem; margin-top: 0.15rem; flex-shrink: 0; opacity: 0.5;"></i>
+    <div>
+      <strong>PhD in Marketing</strong>, The Hong Kong University of Science and Technology (HKUST)<br>
+      <span style="font-size: 0.875rem; opacity: 0.7;">Sep 2022 – Present &nbsp;·&nbsp; Hong Kong, China &nbsp;·&nbsp; Advisor: Professor Jia Liu</span>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; gap: 0.75rem; padding-left: 0.875rem; border-left: 2px solid rgba(128,128,128,0.3);">
+    <i class="fa-solid fa-graduation-cap" style="font-size: 1.1rem; margin-top: 0.15rem; flex-shrink: 0; opacity: 0.5;"></i>
+    <div>
+      <strong>MSc in Marketing Analytics and Insights</strong>, National University of Singapore (NUS)<br>
+      <span style="font-size: 0.875rem; opacity: 0.7;">Sep 2020 – Dec 2021 &nbsp;·&nbsp; Singapore</span>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; gap: 0.75rem; padding-left: 0.875rem; border-left: 2px solid rgba(128,128,128,0.3);">
+    <i class="fa-solid fa-graduation-cap" style="font-size: 1.1rem; margin-top: 0.15rem; flex-shrink: 0; opacity: 0.5;"></i>
+    <div>
+      <strong>BSc in Management Science and Engineering</strong>, Renmin University of China<br>
+      <span style="font-size: 0.875rem; opacity: 0.7;">Sep 2016 – July 2020 &nbsp;·&nbsp; Beijing, China</span>
+    </div>
+  </div>
+</div>
+
