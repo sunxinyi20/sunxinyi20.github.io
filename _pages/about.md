@@ -36,9 +36,11 @@ Methodologically, I draw on **causal inference** (RDiT, field experiments, lab e
 
 I am on the 2026–2027 academic job market.
 
+<hr style="margin: 2rem 0 1.5rem; opacity: 0.15;">
+
 <h2>Education</h2>
 
-<div style="margin: 1rem 0 1.5rem; display: flex; flex-direction: column; gap: 0.875rem;">
+<div style="margin: 1rem 0 2rem; display: flex; flex-direction: column; gap: 0.875rem;">
   <div style="display: flex; align-items: flex-start; gap: 0.75rem; padding-left: 0.875rem; border-left: 2px solid rgba(128,128,128,0.3);">
     <i class="fa-solid fa-graduation-cap" style="font-size: 1.1rem; margin-top: 0.15rem; flex-shrink: 0; opacity: 0.5;"></i>
     <div>
@@ -63,4 +65,6 @@ I am on the 2026–2027 academic job market.
     </div>
   </div>
 </div>
+
+<hr style="margin: 0 0 1rem; opacity: 0.15;">
 
